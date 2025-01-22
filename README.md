@@ -1,8 +1,8 @@
 Hi there!
 
-🎓 Senior IT Student at University of St. La Salle
-🚀 Aspiring Project Manager | Passionate Developer
-📚 Driven by learning and adapting to new technologies
+- 🎓 Senior IT Student at University of St. La Salle
+- 🚀 Aspiring Project Manager | Passionate Developer
+- 📚 Driven by learning and adapting to new technologies
 
 
 
