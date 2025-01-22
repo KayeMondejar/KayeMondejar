@@ -22,5 +22,5 @@ Hi there!
 
 📬 Let’s Connect
 
-💼 www.linkedin.com/in/kaye-mondejar
-📧 kayemndjr11@gmail.com
+- 💼 www.linkedin.com/in/kaye-mondejar
+- 📧 kayemndjr11@gmail.com
