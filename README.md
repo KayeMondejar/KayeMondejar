@@ -8,17 +8,17 @@ Hi there!
 
 🌟 What I Do
 
-Developing solutions for real-world problems
-Working on the RecycleLink project, blending sustainability and tech
-Exploring web and mobile app development
+- Developing solutions for real-world problems
+- Working on the RecycleLink project, blending sustainability and tech
+- Exploring web and mobile app development
 
 
 
 💡 What I’m Learning
 
-Project management methodologies
-Exploring advanced project management tools and methodologies, including Agile and Scrum frameworks.
-Data visualization and analytics for admin panels
+- Project management methodologies
+- Exploring advanced project management tools and methodologies, including Agile and Scrum frameworks.
+- Data visualization and analytics for admin panels
 
 📬 Let’s Connect
 
