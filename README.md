@@ -7,13 +7,17 @@ Hi there!
 🌟 What I Do
 
 Develop solutions for real-world problems
+
 Work on the RecycleLink project, blending sustainability and tech
+
 Build and explore web and mobile applications
 
 💡 What I’m Currently Learning
 
 Advanced tools and frameworks like Agile and Scrum
+
 Data analytics with a focus on Power BI
+
 Data visualization and analytics for admin dashboards
 
 
