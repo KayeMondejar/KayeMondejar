@@ -8,7 +8,6 @@ Hi there!
 
 
 
-
 🌟 What I Do
 
 Develop solutions for real-world problems
