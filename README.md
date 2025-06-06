@@ -1,21 +1,21 @@
 Hi there!
-- 🎓 Senior IT Student at University of St. La Salle
-- 🚀 Aspiring Project Manager | Passionate Developer
-- 📚 Driven by learning and adapting to new technologies
 
-
+🎓 IT Graduate from the University of St. La Salle
+🚀 Aspiring Project Manager  Data Analyst
+📚 Driven by continuous learning and adapting to new technologies
 
 🌟 What I Do
-- Developing solutions for real-world problems
-- Working on the RecycleLink project, blending sustainability and tech
-- Exploring web and mobile app development
 
+Develop solutions for real-world problems
+Work on the RecycleLink project, blending sustainability and tech
+Build and explore web and mobile applications
 
+💡 What I’m Currently Learning
 
-💡 What I’m Learning
-- Project management methodologies
-- Exploring advanced project management tools and methodologies, including Agile and Scrum frameworks.
-- Data visualization and analytics for admin panels
+Advanced tools and frameworks like Agile and Scrum
+Data analytics with a focus on Power BI
+Data visualization and analytics for admin dashboards
+
 
 📬 Let’s Connect
 - 💼 www.linkedin.com/in/kaye-mondejar
